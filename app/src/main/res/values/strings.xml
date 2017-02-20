@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IgraMemorije</string>
+    <string name="title">Prati me</string>
+    <string name="play_game">Igraj</string>
+    <string name="high_scores">Rezultat</string>
+    <string name="press_start">Pritisni Start da bi započeo igru</string>
+    <string name="start_game">Start</string>
+    <string name="get_ready">Pripremi se!</string>
+    <string name="game_over">Kraj igre</string>
+    <string name="player_turn">Tvoj je red. Ponovi.</string>
+    <string name="clear_scores">Obriši</string>
+    <string name="description">Obratite pažnju na redosled pritusnitih tastera, onda pokušajte pravilno da ponovite</string>
+</resources>
